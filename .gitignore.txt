@@ -1,0 +1,19 @@
+# skips
+db.sqlite3
+account/__pycache__/
+*.log
+*.pot
+*.pyc
+__pycache__
+.DS_Store
+*.lite3
+media/
+*.pyc
+*.db
+*.pid
+db.sqlite3
+#Setup conditionals via socket.gethostname
+#techsemester/settings.py
+techsemester/db.sqlite3
+account/__pycache__/
+*__pycache__
