@@ -1,0 +1,26 @@
+# skips
+db.sqlite3
+account/__pycache__/
+*.log
+*.pot
+*.pyc
+__pycache__
+.DS_Store
+*.lite3
+media/
+*.pyc
+*.db
+*.pid
+db.sqlite3
+#Setup conditionals via socket.gethostname
+#techsemester/settings.py
+techsemester/db.sqlite3
+account/__pycache__/
+*__pycache__
+techsemester/__pycache__/settings.cpython-37.pyc     | Bin 3239 -> 3239 bytes
+account/__pycache__/admin.cpython-37.pyc           | Bin 808 -> 808 bytes
+account/__pycache__/models.cpython-37.pyc          | Bin 1915 -> 1915 bytes
+account/__pycache__/views.cpython-37.pyc           | Bin 2586 -> 2586 bytes
+account/api/__pycache__/serializers.cpython-37.pyc | Bin 720 -> 720 bytes
+account/api/__pycache__/urls.cpython-37.pyc        | Bin 370 -> 337 bytes
+account/api/__pycache__/views.cpython-37.pyc       | Bin 1757 -> 1757 bytes
